@@ -6,7 +6,7 @@
 ### Task submissions, projects, and learnings from my Artificial Intelligence internship at **InternSpark** (powered by Alfido Tech)
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![InternSpark](https://img.shields.io/badge/InternSpark-Artificial%20Intelligence-blueviolet?style=for-the-badge)
 
 </div>
