@@ -41,11 +41,6 @@ InternSpark-Internship/
 │   └── README.md
 │
 └── README.md   ← you are here
-```
-
-*(Replace the folder names above with your actual task folders — happy to regenerate this section once I know the exact names!)*
-
----
 
 ## 🚀 Tasks Completed
 
@@ -91,17 +86,12 @@ InternSpark-Internship/
 
 **InternSpark** is a project-based online internship platform (powered by Alfido Tech) offering AICTE-aligned, hands-on training across domains like Web Development, AI & Automation, Data Analytics, Cloud Computing, and Design — with verified certificates upon completion.
 
----
-
 ## 👤 Author
 
 **Debojit Ghosh**
 🔗 [GitHub](https://github.com/Debojitghosh-it)
 
----
 
 <div align="center">
 
 ⭐ *If you found this useful or interesting, consider giving the repo a star!* ⭐
-
-</div>
