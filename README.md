@@ -28,15 +28,15 @@ Each folder represents a separate task — self-contained, documented, and runna
 ```
 InternSpark-Internship/
 │
-├── Task-1-<name>/
+├── Task-1-Model Deployment-API & Contenerization
 │   ├── main.py
 │   └── README.md
 │
-├── Task-2-<name>/
+├── Task-2-Responsible AI & Model Intrepretation
 │   ├── main.py
 │   └── README.md
 │
-├── Task-3-<name>/
+├── Task-3-Spam Classfication Analysis
 │   ├── main.py
 │   └── README.md
 │
